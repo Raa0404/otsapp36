@@ -1,2 +1,2 @@
-# OTS Final App
-This is the production-ready version of the OTS app.
+# OTS Settlement App
+This is the final production version.
